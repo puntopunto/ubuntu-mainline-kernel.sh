@@ -1,6 +1,6 @@
 ###### *DISCLAIMER*
     Forked from original repo for little not-to-be-a-master modifications and local adopt.
-    Any finded issues/bugs and make-sense changes will be reported to upstrem maintainer
+    Any finded issues/bugs and setted make-sense changes will be reported to upstrem maintainer
     and pull-requested, if it really will make sense.
 
 ubuntu-mainline-kernel.sh
